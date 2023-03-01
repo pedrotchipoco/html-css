@@ -1,0 +1,35 @@
+@charset "UTF-8"
+
+*{ 
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body{
+    background-image: linear-gradient(to right, #298073, #5A9C56);
+}
+
+main{
+    background-color: white;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    width: 500px;
+}
+
+h1{
+    text-align: center;
+    color: #e07237;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 2em;
+}
+
+h2{
+    color: #298073;
+    font-family:  'Kaushan Script', cursive;
+}
+
+p{
+    text-align: justify;
+    font-weight: bold;
+}

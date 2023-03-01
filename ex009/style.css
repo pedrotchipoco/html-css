@@ -1,0 +1,38 @@
+@charset "UTF-8"
+
+body{
+    background-color: rgba(18, 211, 147, 0.384);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    background-color: rgb(99, 42, 42);
+    color: rgba(202, 34, 34, 0.712);
+    text-align: center;
+
+}
+
+h2{
+    background-color: azure;
+    color: aqua;
+    text-align: center;
+
+}
+
+#pedro{
+    background-color: rgb(133, 131, 25);
+    color:black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: normal;
+}
+
+p{
+    background-color: white;
+    color: rgb(24, 126, 29);
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-style: italic;
+}
